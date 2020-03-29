@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+}
+
+body {
+  text-align: center;
+  background-image: url(images/leaves_bw_dark_136872_2560x1440.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+h1 {
+  color: #fff;
+  font-family: "Bebas Neue";
+  font-size: 4rem;
+  line-height: 1.5;
+}
+
+hr {
+  background-color: #fff;
+  height: 3px;
+}
+
+.tophr {
+  margin-bottom: 5%;
+}
+
+.bottomhr {
+  margin-top: 5%;
+}
+
+.content {
+  padding: 5% 0;
+  position: relative;
+}
+
+.middle-section {
+  background: rgba(0, 0, 0, 0.8);
+}
+
+.links {
+  padding: 8px 60px;
+  margin: 40px 50px;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
